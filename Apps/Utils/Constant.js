@@ -1,0 +1,6 @@
+export default {
+    KINDE_ISSUER_URL:"https://codesphare.kinde.com",
+KINDE_POST_CALLBACK_URL:"exp://10.212.70.201:8081",
+KINDE_CLIENT_ID:"ebdebe072a774305afdc7ad972dd4166",
+KINDE_POST_LOGOUT_REDIRECT_URL:"exp://10.212.70.201:8081",
+}
