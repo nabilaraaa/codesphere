@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projectus",
-    "slug": "projectus",
+    "name": "CODESPHERE",
+    "slug": "CODESPHERE",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,11 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "68ba408b-759b-42ce-8d64-08e42629fb09"
-      }
     }
   }
 }
